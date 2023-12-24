@@ -18,7 +18,7 @@ import numpy as np
 mat=np.array(eval(input()))
 ans=np.linalg.norm(mat,1)
 print("{:.2f}".format(ans))
-
+```
 # 2-Norm of a Matrix
 ```
 Program to find 2-norm of a matrix.
